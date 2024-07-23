@@ -61,7 +61,7 @@ In index.html file -Right click and click Golive option.
 ## Data Input:
 
 
-On the first page of the application the user is allowed to go through the various services provided ,click on one of the srvices and Fill the neceesary data.
+On the first page of the application the user is allowed to go through the various services provided ,click on one of the services and Fill the neceesary data.
 Few may be utilizting text inputs while others be utilizing pictures as input for data processing and evaluation. 
 ![App Screenshot](https://github.com/user-attachments/assets/59b954d3-9589-42ac-9353-291951f4ab37)
 Liver Detection
