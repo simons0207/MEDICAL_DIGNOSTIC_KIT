@@ -51,7 +51,10 @@ The program contains a file requirments.txt install all the dependecies and libr
 ```sh
 pip3 install -r requirements.txt
 ```
-
+Run the app.py file in the main directory
+```
+python3 app.py
+```
 ## Execution:
 In index.html file -Right click and click Golive option.
 ![App Screenshot](https://github.com/user-attachments/assets/7efe7bb6-eeff-4d07-adb9-69da8fa2a449)
