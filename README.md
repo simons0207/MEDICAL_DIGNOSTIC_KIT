@@ -46,7 +46,7 @@ This kit is for informational purposes only and should not be used for sole diag
 
 ## Installation:
 
-The program contains a file requirments.txt install all the dependecies and libraries through the below command in the terminal.
+The program contains a file requirments.txt. Install all the dependecies and libraries through the below command in the terminal.
 
 ```sh
 pip3 install -r requirements.txt
