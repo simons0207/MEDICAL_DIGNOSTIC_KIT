@@ -35,7 +35,7 @@ rsa
 scikit-learn
 scipy
 six
-sklearn
+scikit-learn
 tensorboard
 tensorflow
 tensorflow-estimator
